@@ -130,6 +130,12 @@ MIT
 @biesbjerg/ngx-translate-extract-marker
 MIT
 
+@ngrx/effects
+MIT
+
+@ngrx/store
+MIT
+
 @ngx-translate/core
 MIT
 
